@@ -1,8 +1,6 @@
 ![](https://lh3.googleusercontent.com/mjvjQk7HC8g9UiYSrzzs11U4-Wg18o196ZK6ZhNqMdLUmO-wI_rxj27nDz7NUUUy7Dc5A41n1b-tTjiDRNM4Es3LMA=w640-h400-e365-rj-sc0x00ffffff)
 
-Here are few suggestions to improve your daily productivity & time management on your computer, check it out!
-
----
+## Here are few suggestions to improve your daily productivity & time management on your computer, check it out!
 
 - [uBlock Origin](https://ublockorigin.com/)
   - uBlock Origin is a free, open-source ad content blocker going easy on CPU and memory
