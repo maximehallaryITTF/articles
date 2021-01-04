@@ -8,7 +8,7 @@
   - You are often using (way) too many tabs simultaneously ? Try OneTab to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once. When your tabs are in the OneTab list, "you will save up to 95% of memory" !
   - <img src="https://lh3.googleusercontent.com/1cEqzTCojNE76jQoQKdeEStVydtW3o8XaQk0ZUL6croh371G802cvZEOnNjkWDCI4Nox9J_N9sguCfQ2vq6VHbRz_MU=w640-h400-e365-rj-sc0x00ffffff" alt="" width="400"/>
 - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
-  - Bangs are shortcuts that quickly take you to search results on other sites. For example, just type `!w` for Wikipedia, `!yt` for YouTube or `!so` for StackOverFlow followed by your search
+  - Bangs are shortcuts that quickly take you to search results on other sites. On your browser search bar, type for example `!w` for Wikipedia, `!yt` for YouTube or `!so` for StackOverFlow followed by what you are looking for!
   - <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fthenextweb.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2015%2F07%2FScreen-Shot-2015-07-01-at-5.05.30-PM.png&f=1&nofb=1" alt="" width="400"/>
 - [Momentum](https://momentumdash.com/)
   - <img src="https://lh3.googleusercontent.com/mjvjQk7HC8g9UiYSrzzs11U4-Wg18o196ZK6ZhNqMdLUmO-wI_rxj27nDz7NUUUy7Dc5A41n1b-tTjiDRNM4Es3LMA=w640-h400-e365-rj-sc0x00ffffff" alt="" width="400"/>
@@ -29,5 +29,5 @@ TODO: https://www.youtube.com/watch?v=tMNOpaQrfAE
   - ![]()
   - <img src="" alt="" width="500"/>
 
-What’s a better way to start this year than to improve your ? 
+What’s a better way to start this year than to improve your productivity at work? 
 -->
