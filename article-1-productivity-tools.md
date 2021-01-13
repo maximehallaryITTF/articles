@@ -14,7 +14,7 @@
   - <img src="https://lh3.googleusercontent.com/mjvjQk7HC8g9UiYSrzzs11U4-Wg18o196ZK6ZhNqMdLUmO-wI_rxj27nDz7NUUUy7Dc5A41n1b-tTjiDRNM4Es3LMA=w640-h400-e365-rj-sc0x00ffffff" alt="" width="400"/>
   - Replace new tab page with a personal dashboard featuring to-do, weather, and inspiration quotes.
 - [Time Out - Dejal](https://www.dejal.com/timeout/) (for MacOS, try [stretchly](https://hovancik.net/stretchly/) for Windows)
-  - Customize breaks reminders during your working day
+  - Doing some homeworking ? Plan breaks reminders during your working day
   - <img src="https://www.dejal.com/timeout/images/other/schedule.png" alt="" width="400"/>
 - [Hyperswitch](https://bahoom.com/hyperswitch) (for MacOS)
   - Switch easily between windows with a preview of each window. Allow also to switch between several windows of a same app : for example multiple Chrome instances opened. 
