@@ -21,7 +21,7 @@
 - [Alfred](https://www.alfredapp.com/) (for MacOS)
   - Level up your spolight search with hotkeys, keywords, text expansion and more
   - <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.idownloadblog.com%2Fwp-content%2Fuploads%2F2016%2F05%2FAlfred-3-for-OS-X-theming-Mac-screenshot-001.jpg&f=1&nofb=1" alt="" width="400"/>
-
+- TODO: Chrome multiprofile
 
 <!-- 
 TODO: labels : productivity, focus, motivation
