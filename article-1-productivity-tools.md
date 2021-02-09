@@ -1,7 +1,7 @@
 ![](https://lh3.googleusercontent.com/mjvjQk7HC8g9UiYSrzzs11U4-Wg18o196ZK6ZhNqMdLUmO-wI_rxj27nDz7NUUUy7Dc5A41n1b-tTjiDRNM4Es3LMA=w640-h400-e365-rj-sc0x00ffffff)
 
 
-La crise du COVID a profondément changé le monde de l'entreprise. J'ai du m'adapter à un cadre différent de ce que je connaissais jusqu'à présent. Après un an de télétravail, voici mon retour d'expérience sur les outils pour bien travailler en équipe et en solo !
+> La crise du COVID a profondément changé le monde de l'entreprise. J'ai du m'adapter à un cadre différent de ce que je connaissais jusqu'à présent. Après un an de télétravail, voici mon retour d'expérience sur les outils pour bien travailler en équipe et en solo !
 
 ## Le duo gagnant de la communication et de l'organisation d'équipe
 
@@ -32,5 +32,5 @@ La crise du COVID a profondément changé le monde de l'entreprise. J'ai du m'ad
 
 --- 
 
-Et vous, quelles applications et astuces utilisez-vous pour vous adapter au télétravail ?
+> Et vous, quelles applications et astuces utilisez-vous pour vous adapter au télétravail ?
 
