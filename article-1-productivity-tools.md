@@ -1,38 +1,31 @@
 ![](https://lh3.googleusercontent.com/mjvjQk7HC8g9UiYSrzzs11U4-Wg18o196ZK6ZhNqMdLUmO-wI_rxj27nDz7NUUUy7Dc5A41n1b-tTjiDRNM4Es3LMA=w640-h400-e365-rj-sc0x00ffffff)
 
 
-La crise sanitaire du COVID a profondément changé les dynamiques de travail. J'ai donc du m'adapter à un cadre de travail différent de ce que je connaissais jusqu'à présent. 
-
-Après un an en télétravail, voici mon retour d'expérience sur les outils pour travailler efficacement en équipe et en solo !
+La crise sanitaire du COVID a profondément changé le monde de l'entreprise. J'ai du m'adapter à un cadre différent de ce que je connaissais jusqu'à présent. Après un an en télétravail, voici mon retour d'expérience sur les outils pour bien travailler en équipe et en solo !
 
 ## Le duo gagnant de la communication & de l'organisation en équipe
+
 - 👋 [Slack](https://slack.com/)
-  -  Slack facilite la communication pour les équipes à distance. Au delà des fonctionnalités de chat et call vidéo classiques, l'atout majeur est l'organisation en cannaux de communication personnalisables pour toutes vos interactions. Les Threads (fils de discussions) vous permettent aussi garder vos cannaux clairs sans rétention d'information. Enfin vous trouverez une multitude d'intégrations en tout genre (pour ma part Github, Google Calendar, Azure DevOps etc.),utiles notamment pour centraliser l'ensemble de vos notifications.
-  - Dans le même genre : Microsoft Teams, ayant l'avantage de s'intégrer à la célèbre suite bureautique Office365.
+  -  Slack facilite la communication en équipe. Au delà des fonctionnalités de chat et call vidéo classiques, l'atout majeur est l'organisation en canaux de discussions personnalisables. Les Threads (fils de discussions) vous permettent aussi garder vos canaux clairs sans rétention d'information. Enfin, Slack propose une multitude d'intégrations (Github, Google Calendar, Azure DevOps etc.), utiles pour centraliser l'ensemble de vos notifications
+  - Dans le même genre : [Teams](https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software) de Microsoft, ayant l'avantage de s'intégrer à la suite bureautique Office365
 - 🎯 [Trello](https://trello.com/)
-  - L'application incontournable pour organiser vos projets et collaborer en équipe ! Que ce soit pour un projet de développement web ou pour un projet personel, Trello vous aide à vous organiser en restant simple et intuitif. Via des "cartes" Trello, vous pouvez ajouter des checklists, des commentaires, des pièces jointes, des labels, des dates limites, des responsables etc. pour suivre tous vos projets.
-  - Autres applications de ce type : [Jira](https://www.atlassian.com/software/jira), du même éditeur que Trello, cette application offre des possibilités de workflow et automatisation avancées. Seulement, cela accroit rapidement la complexité d'administration de l'outil, à vous de voir...
-  [Clubhouse](https://clubhouse.io/) très bien adaptée au développement web Agile tout en restant simple d'utilisation, essayez-le ! 
+  - L'application incontournable pour organiser vos projets et collaborer en équipe ! Que ce soit pour du développement d'application web ou pour un projet personel, Trello vous aide à vous organiser en restant simple et intuitif. Grâce à des _Cartes_ (similaires à des post-its), vous pouvez ajouter des checklists, des commentaires, des pièces jointes, des labels, des dates limites, des responsables etc. pour suivre toutes vos actions
+  - Autres applications de ce type : [Jira](https://www.atlassian.com/software/jira), du même éditeur que Trello, cette application offre des possibilités de workflows et automatisations avancées. Néanmoins, cela accroit rapidement la complexité d'utilisation de l'outil, à vous de voir...
+  Et enfin [Clubhouse](https://clubhouse.io/), bien adaptée au développement web Agile tout en restant simple d'utilisation, à essayer
 
-## “Pimp my computer" : des suggestions pour vos tâches individuelles 
+## _Pimp my computer_, des suggestions pour vos tâches individuelles 
 
-- 🤹 Le multi profile sur votre navigateur 
-  - Vous utilisez votre navigateur web pour différents comptes clients (voire pour votre usage pro & perso) ? Le multi profile vous permettra des cloisonner vos différentes activités: par exemple séparation des mots de passe pour s'authentifier à une même application avec des comptes différents, historique à part etc. 
+- 🤹 [Multi profiles](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=fr) sur votre navigateur 
+  - Vous utilisez votre navigateur web pour différents comptes clients (voire pour votre usage pro & perso) ? Le multi profile vous permettra des cloisonner vos différentes activités. Par exemple, séparation des mots de passe pour s'authentifier à une même application avec des comptes différents, historique et favoris à part etc. 
 - ☝️ [OneTab](https://www.one-tab.com/)
-  - Il vous arrive parfois d'ouvrir beaucoup d'onglets sur votre navigateur ? Essayez OneTab pour convertir vos onglet en listes sur un seul onglet et économisez de la mémoire. Si vous avez besoin de retrouver un onglet vous pouvez toujours le restorer facilement par la suite.
-  <!-- - You are often using (way) too many tabs simultaneously ? Try OneTab to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once. When your tabs are in the OneTab list, "you will save up to 95% of memory" ! --> 
-
+  - Il vous arrive parfois d'ouvrir beaucoup d'onglets sur votre navigateur ? Essayez OneTab pour convertir vos onglet en listes sur un seul onglet et économisez de la mémoire. Si vous avez besoin de retrouver un onglet vous pouvez toujours le restorer facilement par la suite
 - 🙅‍♂️ [uBlock Origin](https://ublockorigin.com/)
-  - L'extension uBlock Origin bloque les publicités lors de votre navigation sur le web. Elle est open-source, gratuite et peu gourmande en mémoire, que demander de plus ? Vous pouvez simplement bloquer manuellement un élement indésirable sur un site, ou au contraire désactiver temporairement ou définitivement l'extension sur les sites de votre choix.
+  - L'extension uBlock Origin bloque les publicités lors de votre navigation sur le web. Elle est open-source, gratuite et peu gourmande en mémoire, que demander de plus ? Vous pouvez bloquer manuellement un élement indésirable sur un site, ou au contraire désactiver temporairement ou définitivement l'extension sur les sites de votre choix
+- ☕️ [Time Out](https://www.dejal.com/timeout/) pour MacOS, [Stretchly](https://hovancik.net/stretchly/) pour Windows
+  - Besoin de faire un break ? Cette application vous permet de planifier des rappels personnalisables pendant votre journée. Vous pouvez planifier par exemple des "micro" breaks pour faire quelques pas, vous étirez et prendre du recul sur ce que vous faîtes 🙆‍♂️ 
+## Brisez la glâce grâce aux jeux
 
-  <!-- - uBlock Origin is a free, open-source ad content blocker going easy on CPU and memory -->
- 
-- ☕️ [Time Out - Dejal](https://www.dejal.com/timeout/) (for MacOS, try [stretchly](https://hovancik.net/stretchly/) for Windows)
-  - TODO: Doing some homeworking ? Plan breaks reminders during your working day
-  - <img src="https://www.dejal.com/timeout/images/other/schedule.png" alt="" width="400"/>
-
-## Teambuilding
-
-- Among us 
-  - TODO: 
-<!-- - Morning meeting ?  -->
+- 🧑‍🚀 [Among Us](https://apps.apple.com/fr/app/among-us/id1351168404)
+  - Renforcez la cohésion de votre équipe en embarquant dans un vaisseau spatial en tant qu'équipier ou imposteur. Ce jeu pouvant rassembler de quatre à dix joueurs 
+- 🎲 [Board Game Arena](https://boardgamearena.com/gamelist)
+  - Can't Stop, 7 wonders, 6 qui prend etc. vous devriez y trouver votre bonheur 
