@@ -1,6 +1,6 @@
 ![](https://lh3.googleusercontent.com/mjvjQk7HC8g9UiYSrzzs11U4-Wg18o196ZK6ZhNqMdLUmO-wI_rxj27nDz7NUUUy7Dc5A41n1b-tTjiDRNM4Es3LMA=w640-h400-e365-rj-sc0x00ffffff)
 
-La crise du COVID a profondément changé le monde de l'entreprise. J'ai du m'adapter à un cadre différent de ce que je connaissais jusqu'à présent. Après un an de télétravail, voici mon retour d'expérience sur les outils pour bien travailler en équipe et en solo !
+La crise du COVID a profondément changé le monde de l'entreprise. J'ai du m'adapter à un cadre différent de ce que je connaissais jusqu'à présent. Après un an de télétravail, voici mon retour d'expérience sur les outils pour bien travailler en équipe et en solo :
 
 ## Le duo gagnant de la communication et de l'organisation d'équipe
 
@@ -21,15 +21,15 @@ La crise du COVID a profondément changé le monde de l'entreprise. J'ai du m'ad
 - 🙅‍♂️ [uBlock Origin](https://ublockorigin.com/)
   - L'extension uBlock Origin bloque les publicités lors de votre navigation sur le web. Elle est open-source, gratuite et peu gourmande en mémoire, que demander de plus ? Vous pouvez bloquer manuellement un élement indésirable sur un site ou au contraire désactiver temporairement ou définitivement l'extension sur les sites de votre choix
 - ☕️ [Time Out](https://www.dejal.com/timeout/) pour MacOS, [Stretchly](https://hovancik.net/stretchly/) pour Windows
-  - Besoin de faire un break ? Cette application vous permet de planifier des rappels personnalisables pendant votre journée. Vous pouvez planifier par exemple des "micro" breaks pour faire quelques pas, vous étirez et prendre du recul sur ce que vous êtes en train de faire 🙆‍♂️ 
+  - Besoin de faire un break ? Cette application vous permet de planifier des rappels personnalisés pendant votre journée. Vous pouvez planifier par exemple des "micro" breaks pour faire quelques pas, vous étirez et prendre du recul sur ce que vous êtes en train de faire 🙆‍♂️ 
+
 ## Brisez la glace grâce aux jeux
 
 - 🧑‍🚀 [Among Us](https://apps.apple.com/fr/app/among-us/id1351168404)
-  - Renforcez la cohésion avec vos collègues en embarquant dans un vaisseau spatial en tant qu'équipier ou imposteur. Ce jeu peut rassembler de quatre à dix joueurs, vous devez persuadez les autres (à tort ou à raison) que vous n'êtes pas un imposteur
+  - Renforcez la cohésion avec vos collègues en embarquant dans un vaisseau spatial en tant qu'équipier ou imposteur essayant de saboter la mission. Vous devez utiliser vos techniques de persuasion pour prouver aux autres que vous n'êtes pas un imposteur, à tort ou à raison
 - 🎲 [Board Game Arena](https://boardgamearena.com/gamelist)
   - Can't Stop, 7 wonders, 6 qui prend etc. vous avez l'embarras du choix
 
 --- 
 
 Et vous, quelles applications et astuces utilisez-vous ? N'hésitez pas à partager vos retours et recommendations ✌️
-
