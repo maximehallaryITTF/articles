@@ -15,7 +15,7 @@ La crise du COVID a profondément changé le monde de l'entreprise. J'ai du m'ad
 ## _Pimp your computer_, des suggestions pour vos tâches individuelles 
 
 - 🤹 [Multi profiles](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=fr) sur votre navigateur
-  - Vous utilisez votre navigateur web pour différents comptes clients (voire pour un usage pro & perso) ? Le multi profile vous permettra des cloisonner vos différentes activités. Par exemple, séparation des mots de passe pour s'authentifier à une même application avec des comptes différents, historique et favoris à part etc. 
+  - Vous utilisez votre navigateur web pour différents comptes clients (voire pour un usage pro & perso) ? Le multi profile vous permettra des cloisonner vos différentes activités. Par exemple, la séparation des mots de passe pour s'authentifier à une même application avec des comptes différents, l'historique et les favoris à part etc. 
 - ☝️ [OneTab](https://www.one-tab.com/)
   - Il vous arrive parfois d'ouvrir beaucoup d'onglets sur votre navigateur ? Essayez OneTab pour convertir vos onglets en une liste sur un seul onglet et économisez de la mémoire. Vous pouvez facilement restorer une session ou un onglet par la suite
 - 🙅‍♂️ [uBlock Origin](https://ublockorigin.com/)
